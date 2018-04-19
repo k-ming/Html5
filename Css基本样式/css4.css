@@ -1,0 +1,6 @@
+ul li{
+    /*list-style: circle;*/
+    list-style-image: url("zwx.png");
+    list-style-position: inside;
+    list-style-type: georgian;
+}

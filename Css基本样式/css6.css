@@ -1,0 +1,6 @@
+p{
+    outline: 1px solid green;
+    outline-style: dashed;
+    outline-width: 5px;
+    outline-offset: 4px;
+}

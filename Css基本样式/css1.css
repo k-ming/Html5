@@ -1,0 +1,24 @@
+body p{
+    color: aqua;
+}
+div {
+    padding: 5em;
+}
+div h1{
+    /*text-align: left;*/
+    text-shadow: 5px 12px red;
+    text-indent: -2em;
+}
+div p{
+    color: black;
+}
+.divclass0 #p1{
+    text-transform: capitalize;
+}
+#p2{
+    text-transform: uppercase;
+}
+
+#p3{
+    text-transform: lowercase;
+}

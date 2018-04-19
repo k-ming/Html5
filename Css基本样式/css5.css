@@ -1,0 +1,35 @@
+/*table th{*/
+    /*border: 1px solid gold;*/
+/*}*/
+/*table td{*/
+    /*border: 1px solid magenta;*/
+    /*padding: 5px;*/
+    /*text-align: center;*/
+/*}*/
+/*table{*/
+    /*border: 2px solid red;*/
+    /*!*padding: 2em ;*!*/
+    /*border-collapse: collapse;*/
+    /*width: 150px;*/
+    /*height: 150px;*/
+    /*background-color: bisque;*/
+/*}*/
+
+table{
+    width: 500px;
+    border-collapse: collapse;
+}
+
+#tb th,td{
+    text-align: center;
+    border: 1px solid blueviolet;
+}
+
+#tb th{
+    background-color: darkgray;
+}
+
+#tb tr.tr{
+    background-color: green;
+}
+

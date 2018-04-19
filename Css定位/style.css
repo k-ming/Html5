@@ -1,0 +1,19 @@
+#position1{
+    width: 100px;
+    height: 100px;
+    background-color: #00dd00;
+    position: absolute;
+    float: left;
+}
+#position1{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+}
+#position1{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+}

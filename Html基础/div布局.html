@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>div两种布局</title>
+    <style type="text/css">
+        body{
+            margin: 0px;
+        }
+        div#main{
+            width: 100%;
+            height: 960px;
+            background-color:darkslateblue;
+        }
+        div#head{
+            width: 100%;
+            height: 10%;
+            background-color: aqua;
+        }
+        #left_menu{
+            width: 30%;
+            height: 80%;
+            background-color: chocolate;
+            float: left;
+        }
+        #right_menu{
+            width: 70%;
+            height: 80%;
+            background-color: green;
+            float: left;
+        }
+        #foot{
+            width: 100%;
+            height: 10%;
+            background-color: darkblue;
+            clear: both;
+        }
+    </style>
+</head>
+<body>
+<div id="main">
+    <div id="head">头部</div>
+    <div id="left_menu">左侧菜单</div>
+    <div id="right_menu">右侧菜单</div>
+    <div id="foot">底部</div>
+</div>
+</body>
+</html>

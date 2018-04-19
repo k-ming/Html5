@@ -1,0 +1,13 @@
+body{
+    /*background-color: aqua;*/
+    background-image: url("c4.png");
+    background-repeat: no-repeat;
+    background-size: 200px 350px;
+    background-position: 600px  top;
+    background-attachment: fixed;
+}
+body p{
+    width: 200px;
+    background-color: blue;
+    padding: 2px;
+}
